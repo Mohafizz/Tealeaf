@@ -7,7 +7,17 @@ Started on 22092014
 
 Includes:
 
+---
 Precourse materials 
-- Basics (Ex1 - Ex7)
-- Variables (Ex1 - Ex6)
-- Methods (Ex1 - Ex6)
+- The Basics
+- Variables
+- Methods
+- Flow Control
+- Loops & Iterators
+- Arrays
+- Hashes
+- Files
+- Exercises
+
+Completed Precourse on 06102014
+===============================
