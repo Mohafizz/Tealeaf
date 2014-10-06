@@ -19,4 +19,4 @@ Precourse materials
 - Files
 - Exercises
 
-#h3 Completed Precourse on 06102014
+###Completed Precourse on 06102014
