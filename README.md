@@ -5,9 +5,9 @@ Learning Ruby on Rails on Tealeaf
 
 Started on 22092014
 
+---
 Includes:
 
----
 Precourse materials 
 - The Basics
 - Variables
@@ -19,5 +19,4 @@ Precourse materials
 - Files
 - Exercises
 
-Completed Precourse on 06102014
-===============================
+#h3 Completed Precourse on 06102014
