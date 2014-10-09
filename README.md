@@ -19,4 +19,7 @@ Precourse materials
 - Files
 - Exercises
 
-###Completed Precourse on 06102014
+####Completed Precourse on 06102014
+
+Lesson 1
+- Variable scope
